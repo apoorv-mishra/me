@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "cactus"
+
+[params]
+  colortheme = "light" # dark, light, white, or classic
