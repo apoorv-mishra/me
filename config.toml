@@ -4,4 +4,4 @@ title = "My New Hugo Site"
 theme = "cactus"
 
 [params]
-  colortheme = "light" # dark, light, white, or classic
+  colortheme = "white" # dark, light, white, or classic
