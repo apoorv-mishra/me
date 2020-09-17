@@ -1,4 +1,4 @@
-baseURL = "https://me-puce.vercel.app/"
+baseURL = "https://lonelycoder.me/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "cactus"
